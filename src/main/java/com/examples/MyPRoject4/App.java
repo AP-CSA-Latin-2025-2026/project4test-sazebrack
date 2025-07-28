@@ -13,7 +13,7 @@ public class App {
 		
 		//Question 2) 10 points
 		//Print out a sentence that uses the word "birthday"
-
+		System.out.println("birthday");
 		
 		//Question 3) 10 points, print out the math result of 5 + 5;
 		System.out.println("10");
