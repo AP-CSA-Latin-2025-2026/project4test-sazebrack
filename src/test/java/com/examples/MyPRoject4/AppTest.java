@@ -10,7 +10,7 @@ import java.io.PrintStream;
 
 public class AppTest {
 
-    //private final Day0 unit4 = new Day0();
+    private final App hw = new App();
 
 
     @Test
@@ -27,8 +27,8 @@ public class AppTest {
         }
 
         assertEquals(expectedOutput,input);
-
     }
+    
     @Test
     public void testBirthday() {
     	ByteArrayOutputStream outContent = new ByteArrayOutputStream();

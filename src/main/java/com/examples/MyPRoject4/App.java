@@ -16,7 +16,7 @@ public class App {
 		System.out.println("birthday");
 		
 		//Question 3) 10 points, print out the math result of 5 + 5;
-		System.out.println("10");
+
 		
 	}
 
