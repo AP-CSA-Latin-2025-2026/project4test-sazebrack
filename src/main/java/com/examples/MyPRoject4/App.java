@@ -16,7 +16,8 @@ public class App {
 
 		
 		//Question 3) 10 points, print out the math result of 5 + 5;
-
+		System.out.println("10");
+		
 	}
 
  
